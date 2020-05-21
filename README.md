@@ -1,2 +1,0 @@
-# Daniel
-Created with CodeSandbox
